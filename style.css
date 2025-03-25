@@ -30,3 +30,10 @@ height:22px
     border: 2px solid rgb(93, 49, 129);
     width: 300px;
 }
+
+#county-viewer{
+    margin-left: 350px;
+    margin-top: 4px;
+    width: 500px;
+    height: 500px;
+}
